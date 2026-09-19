@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <rect width="800" height="600" fill="#FFF0F7"/>
+  <rect x="24" y="24" width="752" height="552" rx="18" fill="none" stroke="#B23BE8" stroke-width="6" stroke-dasharray="20 18" stroke-linecap="round"/>
+  <circle cx="400" cy="268" r="86" fill="none" stroke="#B23BE8" stroke-width="6"/>
+  <path d="M362 268 h76 M400 230 v76" stroke="#B23BE8" stroke-width="6" stroke-linecap="round"/>
+  <text x="400" y="410" text-anchor="middle" font-family="Fredoka, Verdana, sans-serif" font-size="34" fill="#7A4E6D">picture 2 goes here</text>
+</svg>
